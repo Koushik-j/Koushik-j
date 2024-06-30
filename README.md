@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, My name is Koushik J</h1>
+<h3 align="center">Data Science Student | Exploring the Concepts of Data Science and Web development</h3>
 
 <!--
 **Koushik-j/Koushik-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
