@@ -6,6 +6,9 @@
 - 🤔 I’m looking for help with ... GenAI techniques
 - 📫 How to reach me: koushiklou7@gmail.com
 
+<h3 align="left">My skills</h3>
+HTML | CSS | Angular | Python | Typescript | API integration | Data Preprocessing | Data Analytical tools
+
 <!--
 **Koushik-j/Koushik-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
