@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, My name is Koushik J</h1>
-<h3 align="center">Data Science Enthusiast | Exploring the Concepts of Data Science and Web development</h3>
+<h3 align="center">Data Science Enthusiast| Frontend Developer | Exploring the Concepts of Data Science and Web development</h3>
 
-- 🔭 I’m currently working on ... NLP and GenAI projects
-- 🌱 I’m currently learning ... NLP techniques, LLM models and many more
+- 🔭 I’m currently working on machine-learning projects 
+- 🌱 I’m currently learning ... NLP techniques, LLM models, and many more
 - 🤔 I’m looking for help with ... GenAI techniques
 - 📫 How to reach me: koushiklou7@gmail.com
 
