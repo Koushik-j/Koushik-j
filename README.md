@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Koushik-j&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Koushik-j&label=Profile%20views&color=0e75b6&style=flat" alt="Koushik-j" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
